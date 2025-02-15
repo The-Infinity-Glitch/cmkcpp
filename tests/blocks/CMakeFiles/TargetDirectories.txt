@@ -1,0 +1,3 @@
+/home/themaster/Documentos/coding/cpp/cmktocpp/tests/blocks/CMakeFiles/tests.dir
+/home/themaster/Documentos/coding/cpp/cmktocpp/tests/blocks/CMakeFiles/edit_cache.dir
+/home/themaster/Documentos/coding/cpp/cmktocpp/tests/blocks/CMakeFiles/rebuild_cache.dir
