@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/tests.dir/home/themaster/Documentos/coding/cpp/cmktocpp/cmktocpp.cpp.o CMakeFiles/tests.dir/home/themaster/Documentos/coding/cpp/cmktocpp/lexer.cpp.o CMakeFiles/tests.dir/main.cpp.o -o tests 
