@@ -25,6 +25,14 @@ namespace cmkcpp {
         LBRACKET,
         RBRACKET,
 
+        // Literals
+        BOOLEAN,
+        PATH,
+        STRING,
+        NUMBER,
+        IDENTIFIER,
+        COMMENT,
+
         // If something goes wrong
         UNKNOWN
     };
