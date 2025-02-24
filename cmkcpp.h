@@ -1,4 +1,6 @@
-#pragma once
+#ifndef CMKCPP_H
+#define CMKCPP_H
+
 #include <vector>
 #include <string>
 
@@ -39,3 +41,5 @@ namespace cmkcpp {
             CMakeProject(std::string cmake_source);
     };
 }
+
+#endif // CMKCPP_H

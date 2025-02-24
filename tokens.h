@@ -1,4 +1,6 @@
-#pragma once
+#ifndef TOKENS_H
+#define TOKENS_H
+
 #include <string>
 
 namespace cmkcpp {
@@ -48,3 +50,5 @@ namespace cmkcpp {
         TokenPositon position;
     };
 }
+
+#endif // TOKENS_H

@@ -1,4 +1,6 @@
-#pragma once
+#ifndef LEXER_H
+#define LEXER_H
+
 #include <vector>
 #include <string>
 #include "tokens.h"
@@ -21,3 +23,5 @@ namespace cmkcpp {
             std::vector<Token> tokens;
     };
 }
+
+#endif // LEXER_H
